@@ -3,9 +3,12 @@ Sentiment Analysis
 Course: Big Data Processing 
 Submission Date: April 7, 2026 
 Team Members 
-Member 1 — Data Ingestion & MongoDB 
-Member 2 — Spark Processing & SQL 
-Member 3 — Visualization & Report 
+Rabaya Khatun Keya —  Notebook: 01_data_ingestion.ipynb 
+Manasha Siriwardana Mudalige Don —  Notebook: 02_spark_processing.ipynb 
+Md Firoz Chowdhury — Notebook: 03_mongodb_queries.ipynb 
+Aung Debora — Notebook: 04_spark_sql_queries.ipynb 
+Neeru Neeru— Notebook: 05_visualization.ipynb 
+
 1. Introduction 
 1.1 Overview 
 This project implements a complete Big Data processing pipeline using Apache Spark and 
