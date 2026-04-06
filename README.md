@@ -29,11 +29,11 @@ The pipeline covers:
 
 | Member | Responsibility |
 |--------|---------------|
-| Member 1 | Data ingestion, cleaning & MongoDB storage |
-| Member 2 | Spark processing & transformations |
-| Member 3 | MongoDB queries & indexing |
-| Member 4 | Spark SQL queries & performance analysis |
-| Member 5 | Visualization, report, dashboard & documentation |
+| Rabaya Khatun Keya | Data ingestion, cleaning & MongoDB storage |
+| Manasha Siriwardana Mudalige Don| Spark processing & transformations |
+| Md Firoz Chowdhury | MongoDB queries & indexing |
+| Aung Debora| Spark SQL queries & performance analysis |
+| Neeru Neeru| Visualization, report, dashboard & documentation |
 
 ---
 
