@@ -59,10 +59,10 @@ The pipeline covers:
 | Pandas | Latest | Data manipulation |
 | Matplotlib | Latest | Static visualizations |
 | Seaborn | Latest | Statistical charts |
-| Streamlit | Latest | Interactive dashboard (Bonus) |
+| Streamlit | Latest | Interactive dashboard |
 | Plotly | Latest | Interactive charts in dashboard |
-| fastavro | Latest | Avro format support (Bonus) |
-| Google Colab | Linux | Parquet/Avro comparison (Bonus) |
+| fastavro | Latest | Avro format support  |
+| Google Colab | Linux | Parquet/Avro comparison  |
 | Java JDK | 17.0 | Spark runtime |
 | Jupyter Notebook | Latest | Development environment |
 
@@ -95,7 +95,7 @@ BIGDATAPROJECT/
 ├── schema/
 │   └── mongo_schema.md                 # MongoDB schema design
 │
-├── app.py                              # Streamlit dashboard (Bonus)
+├── app.py                              # Streamlit dashboard 
 ├── .gitignore                          # Git ignore file
 ├── README.md                           # Project documentation
 └── requirements.txt                    # Python dependencies
