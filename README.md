@@ -112,7 +112,7 @@ BIGDATAPROJECT/
 
 ### Step 1 — Create Conda Environment
 ```bash
-conda create -n pyspark_env python=3.10
+conda create -n pyspark_env python=3.11
 conda activate pyspark_env
 ```
 
